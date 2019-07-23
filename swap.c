@@ -4,6 +4,8 @@ void main(){
     int temp = a;
     a = b;
     b = temp;
+    printf(" now the value is swap %d",a);
+    printf(" now the value is swap %d",b);
 
 
 }
